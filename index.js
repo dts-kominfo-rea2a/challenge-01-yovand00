@@ -57,7 +57,6 @@ const secondUser = {
     favoriteRestaurant : ['bebek sinjay', 'MCD'],
 };
 
-
 // TODO: Masukkan hasil akhir dari kedua user di sini
 const users = [firstUser, secondUser];
 
