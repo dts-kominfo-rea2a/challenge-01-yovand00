@@ -29,7 +29,7 @@ const firstUser = {
     favoriteColor : ['navy blue', 'black'],
     isHavePet : 'no',
     education : eduFirstUser,
-    favoriteRestaurant : ['starbuck', 'primarasa', 'rm padang'],
+    favoriteRestaurant : ['starbuck', 'primarasa', 'rm padang']
     };
 
 //Second user data
@@ -54,7 +54,7 @@ const secondUser = {
     favoriteColor : ['green pastel', 'violet'],
     isHavePet : 'yes',
     education : eduSecondUser,
-    favoriteRestaurant : ['bebek sinjay', 'MCD'],
+    favoriteRestaurant : ['bebek sinjay', 'MCD']
 };
 
 // TODO: Masukkan hasil akhir dari kedua user di sini
